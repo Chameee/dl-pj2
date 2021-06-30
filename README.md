@@ -1,9 +1,9 @@
 # Deep Learning Course Project 2
 
 ## Train a model on CIFAR-10
-See 
+See [dl_pj2.ipynb](https://github.com/Chameee/dl-pj2/blob/master/dl_pj2.ipynb)
 ### Pretrained model (20 epochs)
-[download here]()
+[download here](https://drive.google.com/file/d/1Ngjj_AsfPExXQQ733RnQEWabQ6eEStlw/view?usp=sharing)
 
 
 ## Batch Normalization
