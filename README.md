@@ -4,4 +4,4 @@
 See 
 
 ## Batch Normalization
-See
+See VGG_Loss_Landscape.ipynb[https://github.com/Chameee/dl-pj2/blob/master/VGG_Loss_Landscape.ipynb]
